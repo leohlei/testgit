@@ -6,7 +6,7 @@ app.set("view engine","jade");
 app.listen(port);
 
 console.log("the server port " + port);
-  
+console.log("the server port " + port);console.log("the server port " + port); 
 app.get("/",function(req,res){
 	res.render("index",{title:"fund 首页"});
 });
