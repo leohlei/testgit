@@ -5,3 +5,5 @@ git dev branch
 
 remote
 add dev confilt
+
+add remote default dev
